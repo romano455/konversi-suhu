@@ -1,0 +1,9 @@
+nama =  Muhamad Nur Rochman
+nim  = a11.2018.11131
+Celcius = float(input("silahkan input suhu Celcius : "));
+Reamur = (4/5)*Celcius;
+Kelvin = Celcius + 273;
+Fahrenheit = (9/5)*Celcius + 32;         
+print ("ini hasil konversi ke Reamur : ",Reamur);
+print ("ini hasil konversi ke Kelvin : ",Kelvin);
+print ("ini hasil konversi ke Fahrenheit : ",Fahrenheit);
